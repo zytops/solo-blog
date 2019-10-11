@@ -2,7 +2,7 @@
 zytops 的个人博客
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
+<h4 align="center">每天进步一点点</h4>
 <p align="center"><a title="zytops 的个人博客" target="_blank" href="https://github.com/zytops/solo-blog"><img src="https://img.shields.io/github/last-commit/zytops/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/zytops/solo-blog"><img src="https://img.shields.io/github/repo-size/zytops/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,7 +10,7 @@ zytops 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://www.zytops.com/hello-solo)
+* [java多线程分批处理数据工具类](http://www.zytops.com/articles/2019/10/11/1570774208932.html)
 
 
 
