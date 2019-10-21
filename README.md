@@ -10,6 +10,7 @@ zytops 的个人博客
 
 ### 最新
 
+* [没有最好，只有最合适！](http://www.zytops.com/articles/2019/10/12/1570861622614.html)
 * [java多线程分批处理数据工具类](http://www.zytops.com/articles/2019/10/11/1570774208932.html)
 
 
