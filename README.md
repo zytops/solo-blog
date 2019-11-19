@@ -10,6 +10,7 @@ zytops 的个人博客
 
 ### 最新
 
+* [ElasticSearch启动报错](http://www.zytops.com/articles/2019/11/19/1574159661097.html)
 * [标签收藏](http://www.zytops.com/articles/2019/11/18/1574045573932.html)
 * [一些常用的插件](http://www.zytops.com/articles/2019/10/31/1572498561171.html)
 * [我在 GitHub 上的开源项目](http://www.zytops.com/my-github-repos)
